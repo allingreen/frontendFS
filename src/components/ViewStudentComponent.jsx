@@ -43,4 +43,5 @@ class ViewStudentComponent extends Component {
     }
 }
 
+
 export default ViewStudentComponent
